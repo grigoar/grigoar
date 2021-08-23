@@ -7,7 +7,7 @@
 
 - I like to learn new things and I always want to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience with both design and functionality.
 
-#### In my free time I am currently learning React and working to develop some applications to enchange and test my knowledge.
+#### In my free time I am currently learning React and working to develop some applications to enchance and test my knowledge.
 
 - One sample of a React application is the Currency Exchange App that is hosted on the github-pages https://grigoar.github.io/React-Currency-Exchange-App/ .
 

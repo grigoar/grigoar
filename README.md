@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - I am a junior full stack developer working at UNIQA Software and I look forward to develop my technical and soft skills.
 
 - Currently I am working on a big project with Java for the backend and JavaScript, HTML and CSS for the frontend. The technologies used on the project are: Java, JEE, JSF, Struts, EJB, JSP, HTML, JS, jQuery, CSS, Maven, PostgreSQL, Hibernate, Mockito, SVN.
@@ -7,9 +7,12 @@
 
 - I like to learn new things and I always want to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience with both design and functionality.
 
-#### Currently, in my free time I am learning React and working to develop some applications to enhance and test my knowledge.
+## Currently, in my free time I am learning React and working to develop some applications to enhance and test my knowledge.
 
+### Currency Exchange App
 - One sample of a React application developed by me is the Currency Exchange App that is hosted on the github-pages https://grigoar.github.io/React-Currency-Exchange-App/ .
+### Touch typing App
+- Another Rect application on which I am working right now is using continuous deployment on Netlify https://touch-typing-demo.netlify.app/ .
 
 <!--
 **grigoar/grigoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

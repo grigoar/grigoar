@@ -10,9 +10,9 @@
 ## Currently, in my free time I am learning React and working to develop some applications to enhance and test my knowledge.
 
 ### Currency Exchange App
-- One sample of a React application developed by me is the Currency Exchange App that is hosted on the github-pages https://grigoar.github.io/React-Currency-Exchange-App/ .
+- This is a React application developed by me, which is about calculating the exchange rate of the currencies and it is hosted on the github-pages https://grigoar.github.io/React-Currency-Exchange-App/ .
 ### Touch typing App
-- Another Rect application on which I am working right now is using continuous deployment on Netlify https://touch-typing-demo.netlify.app/ .
+- This is a React application developed by me, about speed typing and which is using continuous deployment on Netlify https://touch-typing-demo.netlify.app/ .
 
 <!--
 **grigoar/grigoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,11 @@
 ## Hi there 👋
-✔ I am a junior full stack developer working at UNIQA Software and I look forward to develop my technical and soft skills.
+✔ I am a junior full stack developer working at Cognizant Softvision and I look forward to develop my technical and soft skills.
 
-✔ Currently I am working on a big project with Java for the backend and JavaScript, HTML and CSS for the frontend. The technologies used on the project are: __Java, JEE, JSF, Struts, EJB, JSP, HTML, JS, jQuery, CSS, Maven, PostgreSQL, Hibernate, Mockito, SVN.__
+✔ Currently I am working with __✨Node.js,✨Express, ✨Mongo, ✨PostgreSql, ✨Git__.
 
-✔ As I worked on multiple personal projects, such as: [tourism application](https://github.com/grigoar/tourism-frontend-AngularJS)-Angular+Spring-Boot, [quiz me up](https://github.com/grigoar/Quiz-me-up-Android)-Android, or [my personal website](https://www.grigorenath.com/)-JS+CSS+HTML and other small or medium applications, I am proficient on developing projects with other technologies like: __React, Spring Boot, Angular, TypeScript, Android, Kotlin, MySQL, SASS, GitHub.__
+✔ On the previous job I worked at UNIQA Software on a big project with Java for the backend and JavaScript, HTML and CSS for the frontend. The technologies used on the project are: __Java, JEE, JSF, Struts, EJB, JSP, HTML, JS, jQuery, CSS, Maven, PostgreSQL, Hibernate, Mockito, SVN.__
+
+✔ As I worked on multiple personal projects, such as: [tourism application](https://github.com/grigoar/tourism-frontend-AngularJS)-Angular+Spring-Boot, [quiz me up](https://github.com/grigoar/Quiz-me-up-Android)-Android, or [my personal website](https://www.grigorenath.com/)-JS+CSS+HTML and other small or medium applications, I am proficient on developing projects with other technologies like: __✨React, Spring Boot, Angular, TypeScript, Android, Kotlin, MySQL, SASS, Git, NextJS.__
 
 ✔ I like to take new and hard challenge to learn new things and to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience with both design and functionality.
 

@@ -11,9 +11,9 @@
 
 ## ⭐Currently, in my free time I am learning React and working to develop some applications to enhance and test my knowledge.
 
-### __🚀Currency Exchange App__
+### __🚀[Currency Exchange App](https://github.com/grigoar/React-Currency-Exchange-App)__ - git repo
 - This is a React application which is about calculating the exchange rate of the currencies based on an external API and it is hosted on the github-pages https://grigoar.github.io/React-Currency-Exchange-App/ .
-### __🚀Touch typing App__
+### __🚀[Touch typing App](https://github.com/grigoar/React-Learning-Typing)__ - git repo
 - This is a React application about speed typing and which is using continuous deployment on Netlify https://touch-typing-demo.netlify.app/ .
 
 <!--

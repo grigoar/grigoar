@@ -7,7 +7,7 @@
 
 ✔ I like to take new and hard challenges to learn new things and to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience having a great design and flawless functionality.
 
-## ⭐Currently, in my free time I am working on a production level application to practice your Touch Typing skills. Full Stack application build with: ✨NodeJS, ✨PostgreSQL, ✨NextJS, ✨React, ✨Redux, ✨TypeScript, ✨AWS, ✨Heroku, ✨Vercel, ✨Git - CI/CD.
+## ⭐Currently, in my free time I am working on a production level application to practice your Touch Typing skills. __Tech stack: ✨NodeJS, ✨PostgreSQL, ✨NextJS, ✨React, ✨Redux, ✨TypeScript, ✨AWS, ✨Heroku, ✨Vercel, ✨Git - CI/CD__.
 
 ### ✔ Previous Projects:
 ### __🚀[Currency Exchange App](https://github.com/grigoar/React-Currency-Exchange-App)__ - git repo

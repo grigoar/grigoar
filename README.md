@@ -1,7 +1,7 @@
 ## Hi there 👋
 ✔ I am a JavaScript full stack developer working at Cognizant Softvision and I look forward to develop my technical and soft skills.
 
-✔ Currently I am working with __✨Node.js,✨Express, ✨Mongo, ✨PostgreSql, ✨Git__.
+✔ Currently I am working with __✨React, ✨NextJS, ✨Redux, ✨Node.js,✨Express, ✨AWS Lamda, ✨Ember.js, ✨HTML, ✨CSS/SASS, ✨PostgreSql, ✨Git__.
 
 ✔ On the previous job I worked at UNIQA Software on a big project with Java for the backend and JavaScript, HTML and CSS for the frontend. The technologies used on the project are: __Java, JEE, JSF, Struts, EJB, JSP, HTML, JS, jQuery, CSS, Maven, PostgreSQL, Hibernate, Mockito, SVN.__
 

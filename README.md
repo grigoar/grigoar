@@ -7,9 +7,10 @@
 
 ✔ I like to take new and hard challenges to learn new things and to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience having a great design and flawless functionality.
 
-## ⭐Currently, in my free time, I am working on a production level application that helps in improving your Touch Typing skills. __Tech stack: ✨NodeJS, ✨PostgreSQL, ✨NextJS, ✨React, ✨Redux, ✨TypeScript, ✨AWS, ✨Heroku, ✨Vercel, ✨Git - CI/CD__.
+## Here you can see my last project __🚀[TypingMuscle](https://www.typingmuscle.com)__
+⚒ __Tech stack: ✨React, ✨NextJS, ✨Redux, ✨NodeJS, ✨Express.js, ✨PostgreSQL, ✨HTML5, ✨CSS/SASS, ✨TypeScript, ✨AWS, ✨Heroku, ✨Vercel, ✨Git - CI/CD__.
 
-### ✔ Previous Projects:
+<!-- ### ✔ Previous Projects:
 ### __🚀[Currency Exchange App](https://github.com/grigoar/React-Currency-Exchange-App)__ - git repo
 - React application which is about calculating the exchange rate of the currencies based on an external API and it is hosted on the github-pages https://grigoar.github.io/React-Currency-Exchange-App/ .
 ### __🚀[Touch typing App](https://github.com/grigoar/React-Learning-Typing)__ - git repo
@@ -17,7 +18,7 @@
 ### __🚀[My Personal Website](https://www.grigorenath.com/)__ 
 - Personal Website to know more about be, but in a more entertaining way
 ### __🚀[Quiz Me Up](https://github.com/grigoar/Quiz-me-up-Android)__ - git repo
-- Quiz Me Up is a trivia game with for challenging yourself to gain new knowledge and have fun. [View On Google Play](https://play.google.com/store/apps/details?id=com.ggdarkzone.quizmeup)
+- Quiz Me Up is a trivia game with for challenging yourself to gain new knowledge and have fun. [View On Google Play](https://play.google.com/store/apps/details?id=com.ggdarkzone.quizmeup) -->
 <!--
 **grigoar/grigoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

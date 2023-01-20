@@ -7,18 +7,24 @@
 
 ✔ I like to take new and hard challenges to learn new things and to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience having a great design and flawless functionality.
 
-## Here you can see my last project __🚀[TypingMuscle](https://www.typingmuscle.com)__
-⚒ __Tech stack: ✨React, ✨NextJS, ✨Redux, ✨NodeJS, ✨Express.js, ✨PostgreSQL, ✨HTML5, ✨CSS/SASS, ✨TypeScript, ✨AWS, ✨Heroku, ✨Vercel, ✨Git - CI/CD__.
-
-<!-- ### ✔ Previous Projects:
-### __🚀[Currency Exchange App](https://github.com/grigoar/React-Currency-Exchange-App)__ - git repo
+### ⭐ Notable Projects from past:
+<!-- ### __🚀[Currency Exchange App](https://github.com/grigoar/React-Currency-Exchange-App)__ - git repo
 - React application which is about calculating the exchange rate of the currencies based on an external API and it is hosted on the github-pages https://grigoar.github.io/React-Currency-Exchange-App/ .
 ### __🚀[Touch typing App](https://github.com/grigoar/React-Learning-Typing)__ - git repo
-- React application about speed typing and which is using continuous deployment on Netlify https://touch-typing-demo.netlify.app/ .
-### __🚀[My Personal Website](https://www.grigorenath.com/)__ 
-- Personal Website to know more about be, but in a more entertaining way
-### __🚀[Quiz Me Up](https://github.com/grigoar/Quiz-me-up-Android)__ - git repo
-- Quiz Me Up is a trivia game with for challenging yourself to gain new knowledge and have fun. [View On Google Play](https://play.google.com/store/apps/details?id=com.ggdarkzone.quizmeup) -->
+- React application about speed typing and which is using continuous deployment on Netlify https://touch-typing-demo.netlify.app/ . -->
+#### __🚀[My Personal Website](https://www.grigorenath.com/)__ 
+- Personal Website to know more about be, but in a more entertaining way (It's a little outdated)
+#### __🚀[Quiz Me Up](https://github.com/grigoar/Quiz-me-up-Android)__ - git repo
+- Quiz Me Up is a trivia game with for challenging yourself to gain new knowledge and have fun. [View On Google Play](https://play.google.com/store/apps/details?id=com.ggdarkzone.quizmeup)
+
+## ⭐ Test your typing accuracy and speed using __🚀[TypingMuscle](https://www.typingmuscle.com)__
+✔ TypingMuscle is a fun online utility game, with interesting book quotes/jokes/famous quotes/random/custom text, for measuring your typing performance and help you understand where you can improve.
+
+✔ It has a lot of coll features with different graphs, finger/character statistics and much more.
+
+⚒ __Tech stack: ✨React, ✨NextJS, ✨Redux, ✨NodeJS, ✨Express.js, ✨PostgreSQL, ✨HTML5, ✨CSS/SASS, ✨TypeScript, ✨AWS, ✨Heroku, ✨Vercel, ✨Git - CI/CD__.
+
+
 <!--
 **grigoar/grigoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

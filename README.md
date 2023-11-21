@@ -1,5 +1,5 @@
 ## Hi there 👋
-✔ I am a JavaScript full stack developer working as a contractor/freelancer and I look forward to develop my technical and soft skills.
+✔ I am a JavaScript full stack developer with 4+ years working as a contractor/freelancer and I look forward to develop my technical and soft skills.
 
 ✔ Currently I am working with __✨React, ✨NextJS, ✨Redux, ✨Node.js,✨Express, ✨AWS Lamda, ✨Nest.js, ✨Ember.js, ✨HTML, ✨CSS/SASS, ✨PostgreSql, MongoDB, DynamoDb, ✨Jest, ✨Git__.
 

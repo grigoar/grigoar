@@ -5,7 +5,7 @@
 
 ✔ I like to take new and hard challenges to learn new things and to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience having a great design and flawless functionality.
 
-## ⭐ Personal project that I've been working in my free time: A JOB BOARD - take a look here __🚀[IT JOB BOARD](https://it-jobs-board-frontend.vercel.app/)__
+## ⭐ Personal project that I've been working in my free time and still in progress: A JOB BOARD - take a look here __🚀[IT JOB BOARD](https://it-jobs-board-frontend.vercel.app/)__ (it takes a little bit to launch - free tier for now😅)
 
 ### ⭐ Notable Projects from past:
 <!-- ### __🚀[Currency Exchange App](https://github.com/grigoar/React-Currency-Exchange-App)__ - git repo

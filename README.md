@@ -1,11 +1,11 @@
 ## Hi there 👋
-✔ I am a JavaScript full stack developer with 4+ years working as a contractor/freelancer and I look forward to develop my technical and soft skills.
+✔ I am a Senior JavaScript full stack developer with 5+ years working as a contractor/freelancer and I look forward to developing my technical and soft skills.
 
 ✔ Currently I am working with __✨React, ✨NextJS, ✨Redux, ✨Node.js,✨Express, ✨AWS Lamda, ✨Nest.js, ✨Ember.js, ✨HTML, ✨CSS/SASS, ✨PostgreSql, MongoDB, DynamoDb, ✨Jest, ✨Git__.
 
-✔ I like to take new and hard challenges to learn new things and to expand my technical and soft skills. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience having a great design and flawless functionality.
+✔ I like to take new and hard challenges to help companies succeed. I want to bring value though my work and I want to deliver applications and features that are offering users a good experience having a great design and flawless functionality.
 
-## ⭐ Personal project that I've been working in my free time and still in progress: A JOB BOARD - take a look here __🚀[IT JOB BOARD](https://it-jobs-board-frontend.vercel.app/)__ (it takes a little bit to launch - free tier for now😅)
+## ⭐ Personal project that I've been working in my free time and still in progress: A JOB BOARD - take a look here __🚀[IT JOB BOARD](https://it-jobs-board-frontend.vercel.app/)__ (it takes a little bit to launch - free tier for now)
 
 ### ⭐ Notable Projects from past:
 <!-- ### __🚀[Currency Exchange App](https://github.com/grigoar/React-Currency-Exchange-App)__ - git repo
